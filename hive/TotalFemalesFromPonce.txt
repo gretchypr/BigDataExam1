@@ -1,0 +1,2 @@
+Total number of female students from Ponce that go to 'Superior' level school results:
+601

@@ -1,0 +1,83 @@
+Total number of male students per region, district and city results:
+Arecibo Arecibo Arecibo 369
+Arecibo Arecibo Hatillo 159
+Arecibo Camuy   Camuy   167
+Arecibo Camuy   Lares   99
+Arecibo Camuy   Quebradillas    174
+Arecibo Manat�  Barceloneta     133
+Arecibo Manat�  Ciales  71
+Arecibo Manat�  Florida 67
+Arecibo Manat�  Manat�  197
+Arecibo Vega Alta       Dorado  87
+Arecibo Vega Alta       Vega Alta       156
+Arecibo Vega Alta       Vega Baja       219
+Bayam�n Bayam�n Bayam�n 597
+Bayam�n Corozal Corozal 177
+Bayam�n Corozal Naranjito       180
+Bayam�n Orocovis        Morovis 176
+Bayam�n Orocovis        Orocovis        129
+Bayam�n Toa Baja        Cata�o  69
+Bayam�n Toa Baja        Toa Alta        187
+Bayam�n Toa Baja        Toa Baja        169
+Caguas  Barranquitas    Aibonito        127
+Caguas  Barranquitas    Barranquitas    217
+Caguas  Barranquitas    Comerio 23
+Caguas  Barranquitas    Comer�o 61
+Caguas  Cidra   Aguas Buenas    118
+Caguas  Cidra   Cayey   226
+Caguas  Cidra   Cidra   181
+Caguas  Guayama Arroyo  78
+Caguas  Guayama Guayama 178
+Caguas  Guayama Salinas 143
+Caguas  Gurabo  Caguas  432
+Caguas  Gurabo  Gurabo  85
+Humacao Canovanas       Can�vanas       134
+Humacao Canovanas       Loiza   60
+Humacao Canovanas       Lo�za   17
+Humacao Canovanas       Luquillo        81
+Humacao Canovanas       R�o Grande      134
+Humacao Fajardo Ceiba   41
+Humacao Fajardo Culebra 1
+Humacao Fajardo Fajardo 183
+Humacao Fajardo Naguabo 62
+Humacao Fajardo Vieques 49
+Humacao Las Piedras     Humacao 256
+Humacao Las Piedras     Juncos  133
+Humacao Las Piedras     Las Piedras     167
+Humacao Yabucoa Maunabo 39
+Humacao Yabucoa Patillas        76
+Humacao Yabucoa San Lorenzo     182
+Humacao Yabucoa Yabucoa 158
+Mayag�ez        Aguadilla       Aguada  212
+Mayag�ez        Aguadilla       Aguadilla       204
+Mayag�ez        Aguadilla       A�asco  119
+Mayag�ez        Aguadilla       Rinc�n  61
+Mayag�ez        Cabo Rojo       Cabo Rojo       142
+Mayag�ez        Cabo Rojo       Lajas   88
+Mayag�ez        Cabo Rojo       Sabana Grande   116
+Mayag�ez        Cabo Rojo       San Germ�n      93
+Mayag�ez        Mayag�ez        Hormigueros     79
+Mayag�ez        Mayag�ez        Las Marias      33
+Mayag�ez        Mayag�ez        Maricao 25
+Mayag�ez        Mayag�ez        Mayaguez        106
+Mayag�ez        Mayag�ez        Mayag�ez        153
+Mayag�ez        San Sebast�an   Isabela 167
+Mayag�ez        San Sebast�an   Moca    134
+Mayag�ez        San Sebast�an   San Sebasti�n   211
+Ponce   Ponce   Ponce   547
+Ponce   Santa Isabel    Coamo   195
+Ponce   Santa Isabel    Juana D�az      248
+Ponce   Santa Isabel    Santa Isabel    82
+Ponce   Santa Isabel    Villalba        166
+Ponce   Utuado  Adjuntas        63
+Ponce   Utuado  Jayuya  98
+Ponce   Utuado  Utuado  148
+Ponce   Yauco   Guayanilla      61
+Ponce   Yauco   Gu�nica 68
+Ponce   Yauco   Pe�uelas        97
+Ponce   Yauco   Yauco   195
+San Juan        Carolina        Carolina        406
+San Juan        Guaynabo        Guaynabo        163
+San Juan        Guaynabo        Trujillo Alto   152
+San Juan        San Juan I      San Juan        442
+San Juan        San Juan II     San Juan        485
