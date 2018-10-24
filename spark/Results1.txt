@@ -1,0 +1,27 @@
+All male students enrolled in a school with level superior located in either Ponce or San Juan.
+First 20 results:
++---+
+|_c6|
++---+
+|567|
+|568|
+|571|
+|576|
+|578|
+|579|
+|580|
+|584|
+|624|
+|625|
+|627|
+|644|
+|665|
+|668|
+|669|
+|732|
+|734|
+|737|
+|739|
+|762|
++---+
+Total rows: 1116
